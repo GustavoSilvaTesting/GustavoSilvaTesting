@@ -7,7 +7,7 @@
 
 ![GustavoSilvaTesting GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoSilvaTesting&show_icons=true&theme=dracula)
 
-# Linguagens e Tecnologias
+# Linguagens e Tecnologias em desenvolvimento
 
 <div style="display: inline_block"><br/>
     <p align="left"> 
